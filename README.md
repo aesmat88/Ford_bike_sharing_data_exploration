@@ -1,6 +1,8 @@
 # (Ford GoBike tripdata Exploration)
 ## by (Ahmed Esmat)
 
+## Download the dataset
+> Download from [this_link](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv)
 
 ## Dataset
 
